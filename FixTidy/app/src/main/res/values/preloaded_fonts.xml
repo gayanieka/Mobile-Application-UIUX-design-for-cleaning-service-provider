@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aladin</item>
+        <item>@font/bad_script</item>
+        <item>@font/cherry_swash</item>
+        <item>@font/irish_grover</item>
+        <item>@font/paprika</item>
+        <item>@font/radio_canada_light</item>
+    </array>
+</resources>
